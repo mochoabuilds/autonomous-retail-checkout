@@ -27,7 +27,7 @@
 ## 4 CORNER STORE v-1 DATASET
 
 ACTIONS / OBJECTS TRACKED
-  * Store Items
+  * Items in Store (~80)
   * Single Handed Pulls of Items From Shelf
   * Double Handed Pulls of Items From Shelf
   * Hand Offs of Items Between People
@@ -37,10 +37,9 @@ ACTIONS / OBJECTS TRACKED
   * Final Item Inventory and Checkout
   * This dataset is a growing list.  It is mainly focused on scenarios that require long range temporal reasoning for differentiation.  Other scenarios focus more on the object-action relationship, such as people pulling itmes from a shelf. This current dataset has 100 action-object classes, with 100 clips for each action and each clip running approx 10 seconds. In total the v1 dataset has 10,000 videos. It should be noted that all clips collected have variable resolution and frame rates.
 
-## 4 INSPIRATION & "PRETRAINING"
+## 4 "PRETRAINING"
 
-* Inspired by the human visual cortex, our system contains two pathways the ventral - focused on the shape and color of objects and dorsal - tuned to the motion of objects. This approach two-stream helps us better understand how to model spatio-temporal cues at different scales across multiple cameras. 
-* We use an offshoot of ImageNet model to pre-train our system. We are immensely grateful for ImageNet and the human labor it took to sort, label and prep the millions of images across thousands of categories. Pre-training helps us avoid representational bottlenecks, boost our activations per tile and better balance the width and depth of the network.
+* We use an offshoot of ImageNet model to pre-train our system. We are immensely grateful for ImageNet and the human labor it took to sort, label and prep the millions of images across thousands of categories. Pre-training helps us avoid representational bottlenecks, boost our activations per tile and better balance the width and depth of the network.  What's more this approach helps us better understand how to model spatio-temporal cues at different scales across multiple cameras.
 
 ## 5 ADDRESSING DATA BIAS
 
@@ -96,9 +95,11 @@ ACTIONS / OBJECTS TRACKED
 * Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library (2017)
 *
 * "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset" (2018)
-* "Two-Stream Convolutional Networks for Action Recognition in Videos" (2014)
-* "FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks" (2016)
-* "Spatiotemporal Residual Networks for Video Action Recognition" (2016)
-* "Deep Residual Learning for Image Recognition" (2015)
+* "The Kinetics Human Action Video Dataset" (2017)
+* "Two Stream Convolutional Networks for Action Recognition in Videos" 
+* 
 * "Towards Good Practices for Very Deep Two-Stream ConvNets" (2015)
-* "Temporal Segment Networks: Towards Good Practices for Deep Action Recognition" (2016)
+* "FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks" (2016)
+* 
+* "Going Deeper with Convolutions" (2014)
+* "Rethinking the Inception Architecture for Computer Vision" (2015)
