@@ -2,27 +2,29 @@
 
 ## 1 WHY?
 
-* We must never overlook the politics of everyday life, what people do together everyday at their essential retailer matters.  As our next great experiment in payments technology comes, corner stores and small grocers need to prepare for a long-term shift in how money and checkout works.  Our code runs on the idea that "_people don't want to make payments, they want to do what a payment facilitates_".  Shoppers want choice.  Sometimes they will want autonomous checkout and sometimes they will want to checkout with a cashier.  That in mind, we create a digital currency that lets shoppers deposit funds directly with their corner store or small grocer for autonomous checkout services, etc.  
+* As the lines between banks, tech and retail blue we must ask how technology is changing the checkout experience and its overall flows of data.  Our _proof of concept explores how autonomous checkout could be "gifted" to others as an experience_.
 
-* Imagine walking into your neighborhood essential retailer, "checking in", browsing, shopping and walking out. Our moonshot is to _normalize the idea of corner stores providing digital currency for autonomous checkout directly to guests with a simple swipe._  By pulling transactions out of the banking system we cut operating expenses for the essential retailer, which amount to 1-3% per transaction.  This credits system means transactions could be settled instantly on in-house digital ledgers, rather than the pipes of cards networks and banks. This approach also ensures corner store and small grocer payment infrastructure has a back-up system in the event power outages or cyber-attacks cause traditional payment channels to fail.  What's more, our autonomous checkout systems automates the dull and repetitive tasks of scanning goods making essential retail cashiers more productive in the sense they can focus more on things that create loyal regulars.
+*  As our next great experiment in payments technology comes, corner stores and small grocers need to prepare for a long-term shift in how money and checkout works.  Our code runs on the idea that "_people don't want to make payments, they want to do what a payment facilitates_".  _Future shoppers will want choice.  Sometimes they will want autonomous checkout and sometimes they will want to checkout with a cashier._  That in mind, we create a  gifted "experience" that lets shoppers deposit funds directly with their corner store or small grocer to share autonomous checkout services with friends, family and coworkers. 
+
+* Imagine walking into your neighborhood essential retailer, "checking in with your smartphone, browsing, walking out. Our moonshot is to _normalize the idea of corner stores selling autonomous checkout to shoppers as an experience you "gift" to others on a venmo-like platform._  This "gifting" system means transactions could be settled instantly on in-house digital ledgers, rather than the pipes of cards networks and banks.  By pulling transactions out of the banking system we cut operating expenses for retailers, which amount to 1-3% per transaction.  This approach also ensures retail payment infrastructure has a back-up system in the event power outages or cyber-attacks cause traditional payment channels to fail.  Most importantly, our autonomous checkout systems automates the dull and repetitive tasks of scanning goods making retail workers more productive in the sense they can focus on the other things that create loyal regulars.
 
 ## 2 RESEARCH GOALS
 
-* As with any AI learning, the syllabus determines the outcome.  We build our AI system to think like an ethnographer, very sensitive to the members meaning filling each respective space.  The code asks questions such as:  who benefits and who is harmed by this application?  And does it put power into the hands of the already powerful?  This approach to software ensures diversity and sustainability is better built right into the system from the start. 
-* Additionally, my goal is to showcase my ability to write software and design marketable products competently at the graduate school level, even with my lack of per-requisite coursework.
+* As with any AI and machine learning learning, the syllabus determines the outcome.  The goal of our code is to better allow for AI to produce greater fairness and awareness in regards to the political value of time at retail checkout that we may have not considered ourselves.  
+* We build our AI system to think like an ethnographer, very sensitive to the members meaning filling each respective space.  The subroutines are written to make sure the biases of the analog world are not repeated in the AI and machine learning world.  Questions such as - who benefits and who is harmed by this application?  And does it put power into the hands of the already powerful? - are asked repeatedly at every step in the software development process.  This approach to development ensures diversity and sustainability is activel built in at every step of the system.
+* Additionally, this project was created to showcase my ability to write software, even with my missing per-requisite coursework, and design marketable products competently at the graduate level. 
 
-## 3 HOW? (OUTLINE OF PROCESS)
+## 3 HOW? 
 
 * 1 - ASK "WHAT SYSTEM MUST DO" by analyzing problem with shoppers and experts in the field to determine what is required of solution
-* 2 - MODEL REQUIREMENT FOR OBJECTS using bottom-up approach that looks for objects that closely model the real world
-* 3 - NAME CLASSES AND METHODS FOR OBJECTS from step 2 
-* 4 - WALK THRU SCENARIOS to refine class interface and determine class names, responsibilities and collaborator classes to better build cohesion
-* 5 - DEVELOP MESSAGE SENDING PROTOCOLS using step 4 as starting point and determine what types of arguments need to be sent with a message and what type of object a method can return
-* 6 - ESTABLISH CLASS FRAMEWORKS FOR TESTING NEWLY IDENTIFIED CLASSES to make sure components integrate to fulfill goals
-* 7 - USE CLASS INTERFACE TO TEST EACH CLASS INTERFACE and "add some flesh" to step 6 by sending message sending protocol to class interface before developing the methods
-* 8 - FILL IN CLASS ATTRIBUTES AND METHODS FOR EACH CLASS to make sure object's methods work
-* 9 - INTEGRATE CLASSES INTO ONE FRAMEWORK, TEST AND DEBUG THEM
-* 10 - REPEAT STEPS 1-9 MANY MANY TIMES :)
+* 2 - MODEL REQUIREMENT for OBJECTS using bottom-up approach that looks for objects that closely model the real world
+* 3 - NAME the CLASSES and METHODS that carry out these RESPONSIBILITIES from step 2 
+* 4 - REFINE the CLASS INTERFACE and DETERMINE: CLASSNAME, RESPONSIBILITIES and COLLABORATOR CLASSES to build cohesion
+* 5 - DEVELOP the MESSAGE SENDING PROTOCOLS using step 4 as starting point and determine what types of arguments need to be sent with a message and what type of object a method can return.  Here is where we also document preconditions and postconditions, that solidify are the responsibilities of the class. 
+* 6 - SETUP the CLASS FRAMEWORKS for testing newly identified classes to make sure components integrate and fulfill our goals
+* 7 - TEST CLASS INTERFACE and "add some flesh" to step 6 by sending message sending protocol to class interface before developing the methods
+* 8 - FILL in the METHODS and CLASS ATTRIBUTES for each class to make sure object's methods work 
+* 9 - TEST, DEBUG AND INTEGRATE all the parts :)
 
 ## 4 CORNER STORE v-1 DATASET
 
