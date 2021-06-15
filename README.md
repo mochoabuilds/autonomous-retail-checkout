@@ -2,17 +2,13 @@
 
 ## 1 WHY?
 
-* As the lines between banks, tech and retail blur we must ask how technology is changing the checkout experience and its overall flows of data.  _Our proof of concept explores how autonomous checkout could be "gifted" to others as an experience to make the idea of "the new" more palatable._
-
-*  As the next great experiment in payments technology comes, retailers in cities may need to prepare for a long-term shift in how money and checkout works.  _Our code runs on the idea that "people don't want to make payments, they want to do what a payment facilitates".  Future shoppers will want choice.  Sometimes they will want autonomous-checkout and sometimes they will want to checkout with a cashier._  Our proof of concept automates the dull and repetitive tasks of scanning goods by bridging two cameras, a processor, many lines of code and much data.  This mix gives workers some more freedom from the register, so they can focus on those other things that create loyal regulars and that "third place" vibe in their space. Our real moonshot is to _normalize the idea of shoppers depositing funds directly with a retailer, then "gifting" autonomous checkout experiences at that retailer directly to friends, family and coworkers on a Venmo-like platform._
-
-* Imagine "gifting" your friend an autonomous-checkout experience. They walk into the retailer, they "check in" with their smartphone, they browse, they walk out. This "gifting" approach means transactions could also be settled instantly on in-house digital ledgers via Cash/etc, rather than the pipes of cards networks and banks.  By pulling transactions out of the banking system we cut operating expenses for retailers, which amount to 1-3% per transaction.  This approach also ensures retail payment infrastructure has a back-up system in the event power outages or cyber-attacks cause traditional payment channels to fail.  
+* As the lines between banks, tech and retail blur we must ask how technology is changing the checkout experience.  Retailers may need to prepare for a long-term shift in how money and checkout works. We must not forget that money has no weight, it just does real things in our world.  _Our code runs on the idea that "people don't want to make payments, they want to do what a payment facilitates"._ Our proof of concept automates the dull and repetitive tasks of scanning goods by a camera, a processor, many lines of code and much data into autonomous checkout.  We believe shoppers will want choice.  Sometimes they will want autonomous-checkout and sometimes they will want to checkout with a cashier._  This choice also gives workers some more freedom from the register, so they can focus on those things that make a retailer feel more like a "third place".  
+* Our moonshot is to normalize the idea of shoppers depositing funds directly with a retailer, then "gifting" autonomous checkout experiences at that retailer directly to friends, family and coworkers on a Venmo-like platform.  Imagine "gifting" your friend an autonomous-checkout experience. They walk into a retailer, they "check in" with their smartphone, they browse and they walk out. This prepay approach means transactions could also be settled instantly on in-house digital ledgers, rather than the pipes of cards networks and banks.  By pulling transactions out of the banking system we cut operating expenses for retailers, which amount to 1-3% per transaction.
 
 ## 2 RESEARCH GOALS
 
-* As with any AI and machine learning learning, the syllabus determines the outcome.  Our syllabus is focused on the political value of time at retail checkout that we may have not considered ourselves.  
-* We build our AI system to think like an ethnographer, very sensitive to the members meaning filling each respective space.  The subroutines are written to make sure the biases of the analog world are not repeated in the AI and machine learning world.  Questions such as - who benefits and who is harmed by this application?  And does it put power into the hands of the already powerful? - are asked repeatedly at every step in the software development process.  This approach to development ensures diversity and sustainability is activel built in at every step of the system.
-* Additionally, this project was created to showcase my ability to write software, even with my missing per-requisite coursework, and design marketable products competently at the graduate level. 
+* As with any AI and machine learning learning, the syllabus determines the outcome.  Our AI's syllabus is focused on the political value of time at in-store checkout that we may have not considered ourselves.  We build the system to think like an ethnographer, very sensitive to the members meaning filling each respective space.  The subroutines are written to make sure the biases of the analog world regarding the political value of time are not repeated in the AI and machine learning world.  Questions such as -- who benefits and who is harmed by this application?  And does it put power into the hands of the already powerful? -- are asked repeatedly at every step in the software development process.  This approach to development ensures diversity and sustainability is actively built in at every step of the system.
+* Additionally, this project was created to showcase my ability to write software that generates revenue at the graduate level. 
 
 ## 3 HOW? 
 
@@ -90,10 +86,10 @@ ACTIONS / OBJECTS TRACKED
 
 * Writing Ethnographic Field Notes, 2nd Edition (2011)
 * The Great Good Place by Roy Oldenburg (1989)
+* The Poltical Value of Time by Elizabeth F. Cohen (2018)
 * 
-* C++ for Business Programmers
 * Building Business Applications Using C++
-* Open Source Computer Vision for Beginnners: Learn OpenCv using C++ (2017)
+* Hands On Machine Learning with C++ (2020)
 * Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library (2017)
 *
 * "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset" (2018)
